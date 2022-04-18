@@ -1,2 +1,2 @@
 # blopensource
-Demo
+Demo for intro to open source
